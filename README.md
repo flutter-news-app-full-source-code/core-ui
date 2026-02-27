@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/202675624?s=400&u=dc72a2b53e8158956a3b672f8e52e39394b6b610&v=4" alt="Flutter News App Toolkit Logo" width="220">
-  <h1>UI Kit</h1>
-  <p><strong>A shared Flutter UI kit providing a consistent set of widgets, themes, constants, and utilities for the Flutter News App Toolkit.</strong></p>
+  <h1>Core UI </h1>
+  <p><strong>Shared Flutter UI providing a consistent set of widgets, themes, constants, and utilities for the Flutter News App Toolkit.</strong></p>
 </div>
 
 <p align="center">
