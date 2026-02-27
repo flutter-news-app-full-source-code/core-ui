@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:ui_kit/l10n/app_localizations.dart';
+import 'package:core_ui/l10n/app_localizations.dart';
 
 /// A convenient extension to access the UI Kit's localized strings.
 extension UiKitL10n on BuildContext {

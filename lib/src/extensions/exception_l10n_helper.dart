@@ -1,6 +1,6 @@
 import 'package:core/core.dart';
 import 'package:flutter/widgets.dart';
-import 'package:ui_kit/src/extensions/l10n_helper.dart';
+import 'package:core_ui/src/extensions/l10n_helper.dart';
 
 /// An extension to provide a user-friendly message from an [HttpException].
 extension HttpExceptionL10n on HttpException {

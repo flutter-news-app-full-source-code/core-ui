@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_kit/ui_kit.dart';
+import 'package:core_ui/core_ui.dart';
 
 /// A widget to display a loading state, typically when fetching data.
 ///

@@ -1,4 +1,4 @@
-name: ui_kit
+name: core_ui
 description: A shared UI kit, providing reusable widgets, themes, and localization helpers.
 repository: https://github.com/flutter-news-app-full-source-code/ui-kit
 version: 1.0.1

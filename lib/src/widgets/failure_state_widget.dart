@@ -1,8 +1,8 @@
 import 'package:core/core.dart';
 import 'package:flutter/material.dart';
-import 'package:ui_kit/src/constants/app_spacing.dart';
-import 'package:ui_kit/src/extensions/exception_l10n_helper.dart';
-import 'package:ui_kit/src/extensions/l10n_helper.dart';
+import 'package:core_ui/src/constants/app_spacing.dart';
+import 'package:core_ui/src/extensions/exception_l10n_helper.dart';
+import 'package:core_ui/src/extensions/l10n_helper.dart';
 
 /// A widget to display an error message and an optional retry button.
 ///
@@ -20,7 +20,7 @@ class FailureStateWidget extends StatelessWidget {
   /// Creates a [FailureStateWidget].
   ///
   /// This widget accepts an [exception] of type [HttpException]
-  /// and uses the `toFriendlyMessage` extension from `ui_kit`
+  /// and uses the `toFriendlyMessage` extension from `core_ui`
   /// to display a localized, user-friendly error message.
   ///
   /// The [onRetry] is an optional callback to be called
