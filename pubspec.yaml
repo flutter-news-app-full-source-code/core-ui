@@ -1,5 +1,5 @@
 name: core_ui
-description: A shared UI kit, providing reusable widgets, themes, and localization helpers.
+description: Shared UI, providing reusable widgets, themes, and localization helpers.
 repository: https://github.com/flutter-news-app-full-source-code/core-ui
 version: 1.0.1
 publish_to: none
@@ -11,7 +11,7 @@ dependencies:
   core:
     git:
       url: https://github.com/flutter-news-app-full-source-code/core.git
-      ref: c417b0179549e7f554bafe1be212c3f456168164
+      ref: 28c7a57b5ce05e23ff70b953e067e3643368aea6
   flex_color_scheme: ^8.3.0
   flutter:
     sdk: flutter
