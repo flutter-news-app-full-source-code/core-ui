@@ -1,10 +1,10 @@
 // ignore_for_file: prefer_const_constructors, deprecated_member_use_from_same_package, lines_longer_than_80_chars
 
 import 'package:core/core.dart';
+import 'package:core_ui/src/storage/kv_storage_shared_preferences.dart.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:core_ui/src/storage/kv_storage_shared_preferences.dart.dart';
 
 // Mock SharedPreferences using mocktail
 class MockSharedPreferences extends Mock implements SharedPreferences {}

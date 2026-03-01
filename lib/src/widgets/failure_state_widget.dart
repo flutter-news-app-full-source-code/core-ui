@@ -1,8 +1,8 @@
 import 'package:core/core.dart';
-import 'package:flutter/material.dart';
 import 'package:core_ui/src/constants/app_spacing.dart';
 import 'package:core_ui/src/extensions/exception_l10n_helper.dart';
 import 'package:core_ui/src/extensions/l10n_helper.dart';
+import 'package:flutter/material.dart';
 
 /// A widget to display an error message and an optional retry button.
 ///
