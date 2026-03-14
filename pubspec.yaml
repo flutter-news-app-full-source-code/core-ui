@@ -1,6 +1,6 @@
 name: core_ui
 description: Shared UI, providing reusable widgets, themes, and localization helpers.
-repository: https://github.com/verity-hq/core-ui
+repository: https://github.com/veritai-news/core-ui
 version: 2.0.0
 publish_to: none
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   core:
     git:
-      url: https://github.com/verity-hq/core.git
+      url: https://github.com/veritai-news/core.git
       ref: 302aec5e1b87bcfe0762ad557741c6038831d4dc
   flex_color_scheme: ^8.3.0
   flutter:
